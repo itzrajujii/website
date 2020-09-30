@@ -1,5 +1,6 @@
 #Comment
 **/__pycache__/
+**/__pycache__/
 .coverage
 .env
 .tox/
